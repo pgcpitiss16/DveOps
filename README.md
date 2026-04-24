@@ -1,2 +1,4 @@
 # DevOps
-Updated from Cloud.
+
+Updated Locally.
+Updated from the cloud
